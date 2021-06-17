@@ -7,3 +7,5 @@ Hi
 Changing
 
 2nd change for git diff
+
+Learn Amend
